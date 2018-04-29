@@ -39,7 +39,6 @@ public class MapsActivity extends AppCompatActivity
      */
     @Override
     public void onMapReady(GoogleMap googleMap) {
-
         try {
             // Customise the styling of the base map using a JSON object defined
             // in a raw resource file.
